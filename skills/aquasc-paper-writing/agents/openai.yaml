@@ -1,0 +1,4 @@
+interface:
+  display_name: "AquaSC Paper Writing"
+  short_description: "Write papers with AquaSC structure and prose style"
+  default_prompt: "Use $aquasc-paper-writing to revise this manuscript using my AquaSC writing preferences while preserving evidence and approved edit scope."

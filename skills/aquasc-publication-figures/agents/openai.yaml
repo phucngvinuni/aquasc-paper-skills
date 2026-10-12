@@ -1,0 +1,4 @@
+interface:
+  display_name: "AquaSC Publication Figures"
+  short_description: "Style publication plots with AquaSC conventions"
+  default_prompt: "Use $aquasc-publication-figures to format the active manuscript figures and tables with captions below panels, matching axis fonts, and thinner curves."

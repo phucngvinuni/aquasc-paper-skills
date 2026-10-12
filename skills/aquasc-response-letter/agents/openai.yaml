@@ -1,0 +1,4 @@
+interface:
+  display_name: "AquaSC Response Letter"
+  short_description: "Sync reviewer replies and exact manuscript excerpts"
+  default_prompt: "Use $aquasc-response-letter to revise this response letter against the latest manuscript, with self-contained replies and verified excerpts."
